@@ -1,0 +1,15 @@
+[2026-05-10 18:20:18] Reserva creada: R001
+[2026-05-10 18:20:18] Reserva confirmada: R001
+[2026-05-10 18:20:18] Pago procesado reserva R001: $228000.0
+[2026-05-10 18:20:18] ERROR creando reserva: La duración de la reserva debe ser mayor a 0
+[2026-05-10 18:20:18] Reserva cancelada: R001
+[2026-05-10 18:32:33] Reserva creada: R001
+[2026-05-10 18:32:33] Reserva confirmada: R001
+[2026-05-10 18:32:33] Pago procesado reserva R001: $228000.0
+[2026-05-10 18:32:33] ERROR creando reserva: La duración de la reserva debe ser mayor a 0
+[2026-05-10 18:32:33] Reserva cancelada: R001
+[2026-05-10 18:33:01] Reserva creada: R001
+[2026-05-10 18:33:01] Reserva confirmada: R001
+[2026-05-10 18:33:01] Pago procesado reserva R001: $228000.0
+[2026-05-10 18:33:01] ERROR creando reserva: La duración de la reserva debe ser mayor a 0
+[2026-05-10 18:33:01] Reserva cancelada: R001
